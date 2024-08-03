@@ -51,10 +51,10 @@ https://greenmarket.tobias-tischer.de/
 
 ## Screenshots
 
-![first steps](../GreenMarket/frontend/public/screenshots/firstscs.png)
-![products](../GreenMarket/frontend/public/screenshots/2screenshot.png)
-![categories and filters](../GreenMarket/frontend/public/screenshots/3screenshot.png)
-![cart and order](../GreenMarket/frontend/public/screenshots/4screenshot.png)
+![first steps](./frontend/public/screenshots/firstscs.png)
+![products](./frontend/public/screenshots/2screenshot.png)
+![categories and filters](./frontend/public/screenshots/3screenshot.png)
+![cart and order](./frontend/public/screenshots/4screenshot.png)
 
 
 
