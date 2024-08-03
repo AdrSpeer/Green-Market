@@ -1,16 +1,62 @@
 # GreenMarket - Online Shop
 
-A group portfolio project
+The GreenMarket onlineshop was our full-stack final project, after our 6.5 month bootcamp. It is a combination of the topics we learned.
 
 ## Description
 
-GreenMarket is a full stack online shop with many different features. Among other things, you can view, filter, search and order goods. Favorite your favorite products and add them directly from the wishlist to the shopping cart. Edit your profile and upload a picture. There are different offers and categories that make shopping exciting.
+GreenMarket is a full stack online shop with many different features. Among other things, you can view:
 
-## Test Daten
+- Login
+- Edit user profile
+- Logout
+- Favorites list
+- Add favorites from the list directly to the shopping cart
+- Add products to the shopping cart, delete and adjust quantities
+- Overview of the logged-in customer's orders, with detailed overview of orders
+- Product categories
+- Combined filter option and sorting function for price, price range and categories
+- Searchbar for products
+- Daily and weekly offers
+- Meal of the day, with a recipe and the option to add all the products required for the recipe to the shopping cart
 
-**E-Mail: mustermann@email.de**<br />
-**Passwort: testkonto**
+We have tried to create a store that is as user-friendly as possible so that users can find and order the products they need as quickly as possible.
 
-## Design
+## Compatible Screensizes
 
-![Smartbuy](https://i.ibb.co/KxMMh9Q/Thumbnail-Portfolio.png)
+- Smartphone
+- Desktop
+
+## Tech Stack
+
+- React.js
+- Vite
+- VS Code
+- HTML
+- CSS
+- JavaScript
+- Git
+- Node.js
+- Express.js
+- MongoDB
+- mongoose
+- Trello
+- figma
+
+## Demo
+
+**E-Mail: adn.speer@gmail.com**<br />
+**Passwort: Adrian**
+
+https://greenmarket.tobias-tischer.de/
+
+## Screenshots
+
+![first steps](../GreenMarket/frontend/public/screenshots/firstscs.png)
+![products](../GreenMarket/frontend/public/screenshots/2screenshot.png)
+![categories and filters](../GreenMarket/frontend/public/screenshots/3screenshot.png)
+![cart and order](../GreenMarket/frontend/public/screenshots/4screenshot.png)
+
+
+
+
+
